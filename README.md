@@ -17,18 +17,13 @@
 
 사진이 들어갈 예정입니다.
 
-![image](https://user-images.githubusercontent.com/77392444/109828243-ce5fae80-7c7f-11eb-9ed0-7fe4298906f1.png)
+
 
 #### 발표 동영상
 
 시연 영상이 들어갈 예정입니다.
 
-<iframe id="ytplayer" type="text/html" width="600" height="360"
-  src="https://www.youtube.com/embed/reOGfxYJre0"
-  frameborder="0"></iframe>
 
 #### Reference
 
 참조 자료의 링크가 추가될 예정입니다.
-
-[한국폴리텍대학 광명융합기술교육원](https://www.kopo.ac.kr/gm/index.do)
