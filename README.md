@@ -17,13 +17,17 @@
 
 사진이 들어갈 예정입니다.
 
-
+![logo image](https://github.com/hennylee/hennylee.github.io/blob/main/github-logo.png?raw=true)
 
 #### 발표 동영상
 
 시연 영상이 들어갈 예정입니다.
 
+<iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+
 
 #### Reference
 
 참조 자료의 링크가 추가될 예정입니다.
+
+[폴리텍 광명 홈페이지](https://www.kopo.ac.kr/gm/index.do)
