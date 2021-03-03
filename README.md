@@ -23,7 +23,7 @@
 
 시연 영상이 들어갈 예정입니다.
 
-<iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/HlqYi_Nawkk" frameborder="0"></iframe>
 
 
 #### Reference
