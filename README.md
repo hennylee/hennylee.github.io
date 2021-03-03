@@ -11,11 +11,9 @@
 
 ### [2021-03-04] github기본개념 및 사용법
 
-- 부가 설명
+- 부가 설명 : [github 기본개념 및 사용법](https://github.com/hennylee/kopo-01-github/blob/main/2021-03-04-github-01.md)
 
-[github 기본개념 및 사용법](https://github.com/hennylee/kopo-01-github/blob/main/2021-03-04-github-01.md)
-
-- 동영상
+- 동영상 :
 
 <iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/HlqYi_Nawkk" frameborder="0"></iframe>
 
