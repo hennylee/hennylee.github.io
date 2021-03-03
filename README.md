@@ -7,27 +7,17 @@
 - 기관 : 한국폴리텍대학 광명융합기술교육원 데이터분석과
 - 기간 : 2021.03.02 ~ (10개월)
 
-## 포트폴리오
+## 과제물
 
-### 금융 프로젝트
+### [2021-03-04] github기본개념 및 사용법
 
-금융 프로젝트 입니다.
+- 부가 설명
 
-#### 설계도
+[github 기본개념 및 사용법](https://github.com/hennylee/kopo-01-github/blob/main/2021-03-04-github-01.md)
 
-사진이 들어갈 예정입니다.
-
-![logo image](https://github.com/hennylee/hennylee.github.io/blob/main/github-logo.png?raw=true)
-
-#### 발표 동영상
-
-시연 영상이 들어갈 예정입니다.
+- 동영상
 
 <iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/HlqYi_Nawkk" frameborder="0"></iframe>
 
 
-#### Reference
 
-참조 자료의 링크가 추가될 예정입니다.
-
-[폴리텍 광명 홈페이지](https://www.kopo.ac.kr/gm/index.do)
