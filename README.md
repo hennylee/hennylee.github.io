@@ -23,7 +23,9 @@
 
 시연 영상이 들어갈 예정입니다.
 
-<iframe width="644" height="362" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/reOGfxYJre0"
+  frameborder="0"></iframe>
 
 #### Reference
 
