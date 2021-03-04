@@ -14,9 +14,11 @@
 
 ## 과제물
 
-### [2021-03-04] [github 기본개념 및 사용법](https://github.com/hennylee/kopo-01-github/blob/main/2021-03-04-github-01.md)
+### [2021-03-03] [github 기본개념 및 사용법](https://github.com/hennylee/kopo-01-github/blob/main/2021-03-03-github-01.md)
 
 <iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/HlqYi_Nawkk" frameborder="0"></iframe>
 
 
+### [2021-03-04] [소스트리 및 사용법](https://github.com/hennylee/kopo-01-github/blob/main/2021-03-04-github-03.md)
 
+<iframe id="ytplayer" type="text/html" width="600" height="360" src="https://www.youtube.com/embed/zQJJ2ReUVSE" frameborder="0"></iframe>
